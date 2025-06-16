@@ -11,5 +11,5 @@ layout: home
 3. [Capítulo 3: O Processo por trás de uma Inteligência Artificial](/capitulo-3)
 4. [Capítulo 4: Aprendizado de Máquina (ML), suas segmentações e algoritmos clássicos](/capitulo-4)
 5. [Capítulo 5: Redes Neurais e Deep Learning](/capitulo-5)
-6. [Capítulo 5: Fundamentos e Evolução da Inteligência Artificial Generativa](/capitulo-6)
-7. [Capítulo 5: Próximos passos](/capitulo-7)
+6. [Capítulo 6: Fundamentos e Evolução da Inteligência Artificial Generativa](/capitulo-6)
+7. [Capítulo 7: Próximos passos](/capitulo-7)
