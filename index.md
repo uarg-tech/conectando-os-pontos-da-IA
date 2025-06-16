@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![Cover Art](/assets/images/ornitorrinco.png)
+![Cover Art](/assets/images/orni.png)
 
 ## Sumário
 0. [Introdução: Porque ler este livro?](intro.md)
