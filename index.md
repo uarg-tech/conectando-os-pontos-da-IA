@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![Cover Art](/assets/images/capa.jpg)
+![Cover Art](/assets/images/capa.png)
 
 ## Sumário
 0. [Introdução: Porque ler este livro?](/intro)
