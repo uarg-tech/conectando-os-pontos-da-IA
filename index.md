@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Conectando os Pontos da IA: Como a Inteligência Artificial Realmente Funciona e Transforma o Mundo
 ![Cover Art](/assets/images/capa.jpg)
 
 ## Sumário
