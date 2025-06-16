@@ -1,3 +1,8 @@
+---
+title: Intro - Por que você deveria ler este livro?
+layout: page
+---
+
 # Por que você deveria ler este livro?
 
 A Inteligência Artificial está remodelando o mundo. Da forma como você trabalha ao seu feed de notícias, IA esta em todos os lugares: muitas vezes sem que você sequer perceba. Para navegar nessa transformação é preciso de mais do que notícias sensacionalistas ou teorias das conspiração: é necessario compreender a essência que poucas pessoas explicam:
