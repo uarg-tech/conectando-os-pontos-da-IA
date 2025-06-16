@@ -1,6 +1,7 @@
 ---
-title: Intro - Por que você deveria ler este livro?
+title: "Intro - Por que você deveria ler este livro?"
 layout: page
+permalink: /intro/
 ---
 
 # Por que você deveria ler este livro?
