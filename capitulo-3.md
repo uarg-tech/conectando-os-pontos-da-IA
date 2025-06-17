@@ -86,7 +86,7 @@ camadas: **Machine Learning**, **Deep Learning** e **IA Generativa**.
 Nos próximos capítulos, nos aprofundaremos em cada uma delas. Mas, para
 iniciarmos nossa jornada, vamos começar com o **Machine Learning**.
 
-#### Machine Learning: A Fundação do Aprendizado por Dados
+### Machine Learning: A Fundação do Aprendizado por Dados
 
 É aqui que tudo começa. O **ML** são as técnicas utilizadas para ensinar
 as máquinas a partir de dados. Para isso, temos uma variedade de
@@ -111,7 +111,7 @@ algoritmos nos permitem:
 O próximo conceito que vamos discutir é o **Deep Learning**, ou, em
 português, **Aprendizado Profundo**.
 
-#### Deep Learning: A Evolução para Problemas Complexos
+### Deep Learning: A Evolução para Problemas Complexos
 
 Em termos técnicos, o **Deep Learning** trata-se de mais uma opção na
 "prateleira" de ML, mas na prática pode ser visto como uma evolução —
@@ -149,7 +149,7 @@ interessante para tarefas que envolvem desafios mais complexos, como:
 Agora, vamos seguir para a próxima camada: a **IA Generativa**, ou, em
 inglês, *Generative AI* (ou GenAI).
 
-#### IA Generativa: A Capacidade de Criação
+### IA Generativa: A Capacidade de Criação
 
 Aqui a IA não apenas reconhece padrões, mas também é capaz de
 **criá-los**. A **IA Generativa** produz texto, imagens, sons e até
@@ -188,7 +188,7 @@ método sistemático que nos permite transformar dados em conhecimento.
 Vamos conhecer quatro de suas principais etapas: **preparação dos dados,
 treinamento, teste e avaliação**. Vamos falar sobre cada uma delas.
 
-#### 1. Preparação dos Dados: A Base do Conhecimento
+### 1. Preparação dos Dados: A Base do Conhecimento
 
 Tudo começa com a preparação dos dados, pois raramente eles chegam
 prontos para uso. Treinar um modelo com dados ruins é como estudar para
@@ -205,7 +205,7 @@ dados de homens jovens, ele pode falhar gravemente ao analisar mulheres
 ou idosos — como já aconteceu com alguns algoritmos de diagnóstico
 cardíaco no passado.
 
-#### 2. Treinamento do Modelo: O Coração do Aprendizado
+### 2. Treinamento do Modelo: O Coração do Aprendizado
 
 Com os dados preparados, começamos o aprendizado em si, ou a fase de
 **treinamento**. Aqui, o algoritmo analisa os dados para aprender seus
@@ -232,7 +232,7 @@ pergunta for ligeiramente diferente, ele não saberá responder. É como um
 aluno chamado Chaves que só sabe responder quando o problema é com
 maçãs, mas não com laranjas.
 
-#### 3. Teste do Modelo: Validando o Conhecimento
+### 3. Teste do Modelo: Validando o Conhecimento
 
 Para avaliar a capacidade do modelo de lidar com novos cenários, usamos
 um conjunto de dados que ele nunca viu antes — o chamado **conjunto de
@@ -248,7 +248,7 @@ metodologias que contribuem para a criação de modelos eficazes, como
 dados de validação e validação cruzada, entre outros. Tudo sempre com o
 mesmo objetivo: garantir que o aprendizado seja generalizável.
 
-#### 4. Avaliação do Desempenho: Medindo o Sucesso e os Desafios
+### 4. Avaliação do Desempenho: Medindo o Sucesso e os Desafios
 
 O que nos leva à quarta e última etapa: como medir o sucesso do
 aprendizado? Não se trata apenas de acertar, pois existem **tipos

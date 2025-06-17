@@ -14,7 +14,7 @@ Já imaginou como a IA aprende?
 Por trás das decisões inteligentes dos sistemas, há diferentes formas de aprendizado de máquina.
 Duas das mais tradicionais e fundamentais são o **Aprendizado Supervisionado** e o **Aprendizado Não Supervisionado**.
 
-#### Aprendizado Supervisionado: Aprendendo com Exemplos
+### Aprendizado Supervisionado: Aprendendo com Exemplos
 
 No **Aprendizado Supervisionado**, a IA aprende por meio de **exemplos previamente rotulados**.
 Ou seja, usando dados que já possuem a "resposta" que nos interessa, o modelo irá aprender a prever qual deveria ser a resposta em situações futuras onde essa resposta não existe.
@@ -30,7 +30,7 @@ Ou seja, usando dados que já possuem a "resposta" que nos interessa, o modelo i
 É sobre ter exemplos rotulados, aprender os padrões e aplicá-los em cenários novos.
 Essa abordagem nos permite **predizer números e categorias**.
 
-#### Aprendizado Não Supervisionado: Descobrindo Padrões Ocultos
+### Aprendizado Não Supervisionado: Descobrindo Padrões Ocultos
 
 Já no **Aprendizado Não Supervisionado**, a IA recebe dados **sem identificação prévia (sem rótulos)** e precisa encontrar padrões por conta própria.
 A máquina busca estruturas e relações inerentes aos dados.
@@ -45,7 +45,7 @@ A máquina busca estruturas e relações inerentes aos dados.
 
 Nesse tipo de aprendizado, o sistema de IA explora padrões escondidos nos dados — sem direcionamentos ou rótulos prévios — e revela estruturas que, talvez, nem sequer havíamos cogitado.
 
-#### Outras Abordagens: Expandindo as Possibilidades do ML
+### Outras Abordagens: Expandindo as Possibilidades do ML
 
 Existem também outras abordagens importantes que complementam as tradicionais:
 
@@ -117,7 +117,7 @@ No entanto, existem outros que não são abrangentes, como é o caso da **Regres
 O fato é que existem muitos, muitos outros algoritmos, cada um com características próprias, adequando-se melhor a diferentes tipos de dados e desafios.
 Falaremos mais sobre isso no final do capítulo.
 
-#### Avaliando o Desempenho no Aprendizado Supervisionado
+### Avaliando o Desempenho no Aprendizado Supervisionado
 
 Mas como avaliamos os resultados desses algoritmos?
 Por meio de **métricas**, que são como "notas" que mostram se as previsões estão certas ou erradas.
@@ -152,7 +152,7 @@ Aqui, os dados não têm rótulos ou respostas certas.
 A missão do algoritmo é buscar estrutura, identificar padrões e extrair sentido das informações disponíveis.
 Vamos citar três possibilidades deste tipo de aprendizagem: **agrupamento, associação e redução de dimensão**.
 
-#### Agrupamento (Clustering): Segmentando em Grupos Naturais
+### Agrupamento (Clustering): Segmentando em Grupos Naturais
 
 Vamos falar primeiro do **agrupamento**, também conhecido como "*clustering*".
 Aqui, queremos segmentar os elementos analisados em grupos.
@@ -165,14 +165,14 @@ Em termos de algoritmos, o **K-means** é um dos mais conhecidos.
 Nele, definimos previamente o número de grupos desejados – e a qualidade desses agrupamentos pode ser posteriormente avaliada por meio de técnicas como o método do cotovelo.
 Mas ele não é o único, existem alternativas como o **DBSCAN**, que identifica agrupamentos com base na densidade dos dados, e o **agrupamento hierárquico**, que constrói uma estrutura de grupos em forma de árvore – inclusive é um dos meus algoritmos preferidos, pois é uma técnica que permite visualizar a construção dos grupos, quase como uma Análise Exploratória Avançada.
 
-#### Associação: Desvendando Relações entre Itens
+### Associação: Desvendando Relações entre Itens
 
 Mas nem só de agrupamento vivem os modelos não supervisionados.
 Podemos também trabalhar com **associação**, usada para identificar padrões de co-ocorrência entre itens.
 Um exemplo clássico desse conceito está na análise de compras: se um cliente adquire determinado produto, quais são os itens mais propensos a serem comprados juntos?
 Nosso resultado é algo como: "Clientes que compram esta marca de goiabada também compram estes queijos".
 
-#### Redução de Dimensionalidade: Simplificando a Complexidade
+### Redução de Dimensionalidade: Simplificando a Complexidade
 
 A terceira abordagem é a **redução de dimensionalidade**, especialmente útil quando lidamos com bases de dados enormes, cheias de variáveis.
 Para simplificar, pense nas variáveis como colunas em uma planilha do Excel.
@@ -181,7 +181,7 @@ Podemos começar com 100 colunas e, ao final, ter apenas 4 que preservam o que r
 Parece mágica, mas é melhor: é matemática, álgebra linear!
 Podemos pensar no PCA como compactar uma foto: reduz o tamanho, mas mantém o essencial visível.
 
-#### Avaliando o Desempenho no Aprendizado Não Supervisionado
+### Avaliando o Desempenho no Aprendizado Não Supervisionado
 
 E como fica a avaliação dos modelos?
 Nos modelos não supervisionados, a avaliação funciona de forma diferente.

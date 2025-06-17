@@ -38,7 +38,7 @@ consciência** – ela apenas combina padrões linguísticos de forma
 estatística. É uma simulação extraordinariamente complexa de
 comportamento inteligente, mas ainda assim, uma simulação.
 
-#### IA Humana vs. IA de Máquina: Uma Comparação Essencial
+### IA Humana vs. IA de Máquina: Uma Comparação Essencial
 
 Por outro lado, independentemente de "entender" ou não, o fato é que a
 IA **performa incrivelmente bem em tarefas específicas** como reconhecer
@@ -225,14 +225,14 @@ enviesadas, os resultados também serão problemáticos. Para ter maior
 clareza sobre este assunto, vamos repassar alguns pontos estratégicas
 sobre o tema:
 
-> #### Dados podem ser ruins? Sim! E as consequências são reais.
+> ### Dados podem ser ruins? Sim! E as consequências são reais.
 
 Um exemplo famoso das consequências da falta de tratamento de dados
 ocorreu na NASA: uma equipe usou milhas e a outra, quilômetros. A falta
 de padronização nos dados criou um problema de navegação que resultou na
 perda de uma sonda de milhões de dólares.
 
-> #### Dados representam a realidade de forma fiel? Nem sempre.
+> ### Dados representam a realidade de forma fiel? Nem sempre.
 
 Dados são recortes, interpretações – **nunca um reflexo completo da
 realidade**. Por isso, o pensamento crítico é essencial: precisamos
@@ -246,7 +246,7 @@ abatidas, uma conclusão alcançada ao considerar os dados *ausentes*.
 
 <!-- to-do: SLIDES- foto do avião -->
 
-> #### Dados sempre garantem respostas certas? Depende do contexto.
+> ### Dados sempre garantem respostas certas? Depende do contexto.
 
 Em contextos com regras bem definidas, como sensores industriais ou
 testes laboratoriais, os dados podem apontar caminhos com precisão. Mas
@@ -259,7 +259,7 @@ priorizar**.
 
 <!-- to-do: SLIDES. - um desenho de algo que seja difícil de ver -->
 
-> #### Ter mais dados é sinônimo de dados melhores? Não necessariamente.
+> ### Ter mais dados é sinônimo de dados melhores? Não necessariamente.
 
 Imagine que queremos entender o comportamento digital das pessoas. O que
 seria mais útil: um conjunto pequeno de dados de várias redes sociais ou
@@ -272,7 +272,7 @@ documentário "**Coded Bias**" da Netflix, que explora como algoritmos de
 reconhecimento facial falham mais para pessoas negras por falta de
 diversidade nos dados de treino.
 
-#### A Nossa Responsabilidade na Era da IA
+### A Nossa Responsabilidade na Era da IA
 
 Se os dados têm problemas – e sabemos que nossa sociedade tem muitos –,
 então as respostas da IA também terão. Ela é poderosa, mas seu olhar é

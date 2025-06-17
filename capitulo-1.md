@@ -162,7 +162,7 @@ exemplos fornecidos. Essa abordagem revolucionou a IA e hoje é
 amplamente utilizada em diversas áreas para tarefas como classificação
 de imagens, sistemas de recomendação e análises preditivas.
 
-### **Terceira Onda: Inteligência Artificial Generativa (GenAI)**
+### Terceira Onda: Inteligência Artificial Generativa (GenAI)
 
 Por fim, e mais recentemente, temos a **Inteligência Artificial
 Generativa** (ou *Generative AI* - GenAI), que representa a terceira
