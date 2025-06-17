@@ -5,7 +5,9 @@ layout: home
 
 ## Escrito por: **[Nathalia Demetrio](https://linktr.ee/NathaliaDemetrio)** e **Arthur Grangeiro**
 
-<img src="/assets/images/orni.png" alt="drawing" width="200"/>
+![Cover Art](/assets/images/orni_.png)
+
+---
 ## Sumário
 0. [Introdução: Porque ler este livro?](intro)
 1. [Capítulo 1: Contextualizando a Inteligência Artificial](capitulo-1)
