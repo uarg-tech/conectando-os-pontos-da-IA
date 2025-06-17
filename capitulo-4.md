@@ -1,5 +1,5 @@
 ---
-title: Capítulo 4 - Aprendizado de Máquina (ML), suas segmentações e algoritmos clássicos
+title: Capítulo 4
 layout: page
 editor_options: 
   markdown: 

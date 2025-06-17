@@ -1,5 +1,5 @@
 ---
-title: Capítulo 2 - Os Conceitos e Reflexões por trás da IA
+title: Capítulo 2
 layout: page
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Capítulo 1 - Contextualizando a Inteligência Artificial
+title: Capítulo 1
 layout: page
 ---
 
