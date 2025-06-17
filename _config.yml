@@ -1,9 +1,3 @@
 title: Conectando os Pontos da IA - Como a Inteligencia Artificial Realmente Funciona e Transforma o Mundo
 longtitle: Conectando os Pontos da IA - Como a Inteligencia Artificial Realmente Funciona e Transforma o Mundo
 description: Seu primeiro passo para um letramento efetivo em Inteligencia Artificial
-
-remote_theme: sighingnow/jekyll-gitbook
-
-relative_links:
-  enabled: true
-  collections: true
