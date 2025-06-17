@@ -1,6 +1,9 @@
 ---
 layout: home
 ---
+# **Ligando os Pontos da IA:** *Como a Inteligência Artificial Realmente Funciona e Transforma o Mundo*
+## Escrito por: **[Nathalia Demetrio](https://linktr.ee/NathaliaDemetrio)** e **Arthur Grangeiro(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc0ajJ1aHZqMWVjc250Z2RnaGQ4cHRzNXl4bm9ndGhrNXQxOHljNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFSxyDRQ0qQXkScyDk/giphy.gif)**
+
 ![Cover Art](/assets/images/orni.png)
 
 ## Sumário
