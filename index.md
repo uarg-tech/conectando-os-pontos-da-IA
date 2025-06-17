@@ -4,7 +4,7 @@ layout: home
 ![Cover Art](/assets/images/orni.png)
 
 ## Sumário
-0. [Introdução: Porque ler este livro?](intro.md)
+0. [Introdução: Porque ler este livro?](/intro/)
 1. [Capítulo 1: Contextualizando a Inteligência Artificial](capitulo-1)
 2. [Capítulo 2: Os Conceitos e Reflexões por trás da IA](capitulo-2)
 3. [Capítulo 3: O Processo por trás de uma Inteligência Artificial](capitulo-3)
