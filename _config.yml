@@ -2,3 +2,22 @@ title: Conectando os Pontos da IA - Como a Inteligencia Artificial Realmente Fun
 description: Seu primeiro passo para um letramento efetivo em Inteligencia Artificial
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
+
+
+nav:
+  - title: "Introdução"
+    url: /intro
+  - title: "Capítulo 1"
+    url: /capitulo-1
+  - title: "Capítulo 2"
+    url: /capitulo-2
+  - title: "Capítulo 3"
+    url: /capitulo-3
+  - title: "Capítulo 4"
+    url: /capitulo-4
+  - title: "Capítulo 5"
+    url: /capitulo-5
+  - title: "Capítulo 6"
+    url: /capitulo-6
+  - title: "Capítulo 7"
+    url: /capitulo-7
