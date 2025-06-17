@@ -91,3 +91,195 @@ definitivamente não envolve terceirizar nosso pensamento crítico.
 Utilize-o agora mesmo, fazendo uma pausa na leitura e refletindo sobre o
 impacto da IA no seu dia a dia, antes de continuar para o próximo
 capítulo.
+
+------------------------------------------------------------------------
+
+## A Parte Artificial da IA
+
+Podemos pensar na palavra “artificial” no contexto da IA como a ausência
+de vontade própria, já que seu propósito é dado por nós! A IA não tem
+objetivos intrínsecos, nem desejos, intenções ou consciência. O que ela
+faz é reagir aos interesses dos seres humanos.
+
+Trata-se de uma ferramenta criada a partir de linhas de código,
+conceitos matemáticos e dados – muitos dados! Assim como uma caneta
+descansa numa mesa quando não a estamos usando, a IA só faz algo quando
+demandada por nós. Quando você fecha o chat, ela simplesmente... para.
+Mesmo pensando em agentes avançados que executarão tarefas na nossa
+ausência, trata-se de um sistema que segue instruções e objetivos
+previamente definidos, sem qualquer senso de identidade ou autonomia.
+Não irá pensar, criar ou refletir sobre o que aconteceu, ou o porquê
+está executando determinada ordem.
+
+Seus objetivos são reflexo dos nossos. Sempre. Ela não existe por si só:
+é uma extensão de nossas intenções. Por isso, o que queremos da IA é o
+que define o que ela pode fazer.
+
+E quando faz sentido utilizar IA? Para muitos cenários: auxiliar a
+resolver problemas complexos, organizar ideias, simular cenários,
+automatizar tarefas, descobrir padrões, criar protótipos, aprender mais
+rápido, ou simplesmente nos entreter. A IA é uma ferramenta, e uma
+ferramenta bem versátil.
+
+E por que essa discussão sobre intencionalidade importa? Porque, no fim,
+
+> **a responsabilidade é sempre nossa**.
+
+A IA pode gerar imagens, textos e sugestões, mas a tarefa de identificar
+demanda, ler contexto e tomar decisões nunca deve ser delegada, mesmo
+quando parece que ela sabe o que está falando! E é justamente isso que
+iremos abordar a seguir, nomeadamente sobre o famoso Teste de Turing.
+
+------------------------------------------------------------------------
+
+## O Teste de Turing: Quando a IA Imita a Humanidade
+
+Depois de tantas discussões, talvez você esteja se sentindo um pouco
+sobrecarregado(a) e sem resposta: afinal, o que é inteligência? Mas é
+justamente aqui que a visão de um dos maiores nomes da história da
+computação se torna essencial: Alan Turing. Lembra do filme “O Jogo da
+Imitação”? Ele relatava a história deste gênio da matemática e um dos
+precursores da computação moderna.
+
+Turing nos convida a mudar o foco. Ele não estava interessado em saber
+se as máquinas pensam ou em criar uma cópia exata do cérebro humano. O
+que ele propôs foi algo mais simples:
+
+E se o comportamento de uma máquina for tão convincente que um ser
+humano não consiga distingui-la de outro humano? Essa é a base do que
+ficou conhecido como o **Teste de Turing**.
+
+Se uma máquina simula linguagem, raciocínio e comportamento humano...
+então, para fins práticos, ela é inteligente. Não porque tem
+consciência, ou por abarcar todas as características da experiência
+humana. Mas simplesmente porque aprendeu a imitar tão bem que seu
+comportamento, em termos práticos, é indistinguível para outro humano.
+
+Mas como uma máquina aprende a fazer isso? Como ela chega a esse ponto
+em que suas respostas soam naturais, humanas e críveis? A resposta é: os
+**dados**. Ou melhor: nas evidências sobre a realidade, sobre os nossos
+comportamentos, que alimentam esses sistemas.
+
+------------------------------------------------------------------------
+
+## Dados: A Ponte Entre a Realidade e os Algoritmos da IA
+
+Vamos falar desta última peça do quebra-cabeça da Inteligência
+Artificial: os **dados**.
+
+Sim, porque, para poder imitar o mundo, a IA se baseia nas informações
+que nós disponibilizamos ou, como veremos mais à frente, que nós
+utilizamos para treiná-la. Quanto melhores os dados, mais robustos e
+relevantes serão os resultados.
+
+E você pode pensar que poderíamos pular direto para entender como a IA
+faz uso dos dados, mas depois de quase duas décadas trabalhando na área
+de dados e *analytics*, desde papéis técnicos como cientista de dados
+até posições mais estratégicas como *Data Product Manager*, aprendi que:
+**não é trivial conectar a complexidade da realidade do mundo com os
+dados**, com as possíveis colunas de uma tabela, traduzir o mundo em
+métricas. E essa é uma barreira que distancia as pessoas da criação de
+boas aplicações de IA, mas também de realmente entender como essa
+tecnologia consegue fazer coisas que, por vezes, parecem mágica.
+
+Vamos explorar um exemplo prático. Imagine que queremos entender o
+comportamento de alguém em uma rede social. Um sistema ou aplicação de
+IA pode analisar:
+
+-   **O óbvio:** quantas vezes a pessoa entra, em que horários, quanto
+    tempo fica.
+
+<!-- -->
+
+-   **O sutil:** que tipo de imagem prende sua atenção — paleta de
+    cores, palavras, temas, autores.
+
+<!-- -->
+
+-   **E o invisível:** quais posts fazem ela sair da rede... ou passar
+    horas rolando o *feed*.
+
+E, com isso, pode detectar até sinais de alerta – como mudanças
+emocionais. Perceba que estamos falando que é possível que uma IA
+consiga captar certas nuances antes mesmo que a própria pessoa perceba.
+
+E isso é possível porque a IA é capaz de criar relações mesmo entre
+informações que, para nós, parecem desconexas, como o tipo de conexão de
+acesso às redes sociais (Wi-Fi? 5G?), as pausas feitas antes de
+interagir com determinados conteúdos e até mudanças no padrão de
+digitação. Não por meio de correlações simples ou regras duras, mas
+identificando **padrões complexos escondidos nos dados**!
+
+Mas apenas para os dados que mostramos para a IA! Sejam eles bons ou
+ruins. E esse é o assunto do próximo capítulo.
+
+------------------------------------------------------------------------
+
+## A Qualidade dos Dados e Seu Impacto na Inteligência Artificial
+
+E se os dados usados para treinar a IA forem ruins? Uma frase clássica
+da área da ciência de dados resume isso de forma direta: "**Garbage in,
+garbage out**" – ou, em bom português, **"Entra Lixo, Sai Lixo"**. Isso
+significa que, se alimentamos a IA com informações imprecisas ou
+enviesadas, os resultados também serão problemáticos. Para ter maior
+clareza sobre este assunto, vamos repassar alguns pontos estratégicas
+sobre o tema:
+
+> #### Dados podem ser ruins? Sim! E as consequências são reais.
+
+Um exemplo famoso das consequências da falta de tratamento de dados
+ocorreu na NASA: uma equipe usou milhas e a outra, quilômetros. A falta
+de padronização nos dados criou um problema de navegação que resultou na
+perda de uma sonda de milhões de dólares.
+
+> #### Dados representam a realidade de forma fiel? Nem sempre.
+
+Dados são recortes, interpretações – **nunca um reflexo completo da
+realidade**. Por isso, o pensamento crítico é essencial: precisamos
+avaliar as informações presentes e o que falta com a mesma seriedade. Um
+exemplo marcante ocorreu na Segunda Guerra Mundial. Estatísticos
+analisavam aviões que retornavam do combate cheios de marcas de tiro e
+sugeriram reforçar essas áreas. Até que Abraham Wald fez uma pergunta
+crucial: "E os aviões que não voltaram?". Os tiros visíveis estavam nos
+sobreviventes, mas a verdadeira vulnerabilidade estava nas aeronaves
+abatidas, uma conclusão alcançada ao considerar os dados *ausentes*.
+
+<!-- to-do: SLIDES- foto do avião -->
+
+> #### Dados sempre garantem respostas certas? Depende do contexto.
+
+Em contextos com regras bem definidas, como sensores industriais ou
+testes laboratoriais, os dados podem apontar caminhos com precisão. Mas
+nem sempre é tão "simples" assim. Algumas informações são difíceis de
+medir, como o bem-estar de pessoas. Outras dependem do que escolhemos
+priorizar – no marketing, por exemplo, podemos focar em garantir o
+aumento de vendas imediatas ou na construção de relacionamentos
+duradouros com clientes, tudo depende do que **nós escolhemos
+priorizar**.
+
+<!-- to-do: SLIDES. - um desenho de algo que seja difícil de ver -->
+
+> #### Ter mais dados é sinônimo de dados melhores? Não necessariamente.
+
+Imagine que queremos entender o comportamento digital das pessoas. O que
+seria mais útil: um conjunto pequeno de dados de várias redes sociais ou
+uma quantidade imensa de dados de apenas uma? Mesmo que uma rede tenha
+milhões de registros, ela reflete apenas os hábitos dos usuários que a
+frequentam. Se a rede for mais popular entre os jovens, seu conjunto de
+dados estará enviesado para este público, sem representar toda a
+população. Para entender melhor esse impacto, vale conferir o
+documentário "**Coded Bias**" da Netflix, que explora como algoritmos de
+reconhecimento facial falham mais para pessoas negras por falta de
+diversidade nos dados de treino.
+
+#### A Nossa Responsabilidade na Era da IA
+
+Se os dados têm problemas – e sabemos que nossa sociedade tem muitos –,
+então as respostas da IA também terão. Ela é poderosa, mas seu olhar é
+moldado por aquilo que fornecemos a ela. A IA amplifica padrões
+existentes, e **é nossa responsabilidade garantir que os dados não sejam
+enviesados, incompletos ou mal interpretados**.
+
+Para além da questão sobre a IA poder ou não pensar, deixo uma
+provocação: **precisamos garantir que nós estejamos pensando sobre o que
+ensinamos para ela.**
