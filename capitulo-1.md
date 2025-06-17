@@ -13,7 +13,7 @@ desenvolver a capacidade de máquinas simularem o pensamento e o
 comportamento humano. Isso inclui habilidades cruciais como o
 aprendizado a partir de dados e a tomada de decisões.
 
-#### IA Vai Além das Aplicações Atuais
+### IA Vai Além das Aplicações Atuais
 
 É fundamental entender que essa definição vai muito além de soluções e
 discussões que estão em alta, como o ChatGPT ou carros autônomos. Embora
@@ -32,7 +32,7 @@ eram muito próximas ao que encontramos hoje - os primeiros programas
 conseguiam resolver problemas de lógica, cálculos matemáticos e jogos
 complexos como o xadrez, por exemplo.
 
-#### Desafios, Limitações e a Nova Era da IA
+### Desafios, Limitações e a Nova Era da IA
 
 No entanto, o caminho de evolução da IA definitivamente não foi linear.
 Após avanços significativos e um grande entusiasmo inicial, entre as
@@ -69,7 +69,7 @@ Vamos explorar o universo da Inteligência Artificial, mas, antes de
 mergulharmos no que ela é, é fundamental desmistificar um ponto
 importante: **o que a IA ainda não é**.
 
-#### Desmistificando a IA: O que ela não é
+### Desmistificando a IA: O que ela não é
 
 A Inteligência Artificial não é um robô com consciência ou inteligência
 humana. Embora o conceito de inteligência seja algo que vamos aprofundar
@@ -79,7 +79,7 @@ Estreita) e a **IA Forte** (também conhecida como IA de Propósito
 Geral). Entender essa diferença é fundamental para compreender as atuais
 limitações da IA.
 
-#### IA Fraca (IA Estreita): A Especialista
+### IA Fraca (IA Estreita): A Especialista
 
 A **IA Fraca** é projetada e treinada para realizar tarefas específicas.
 Ela pode ser excepcionalmente boa em sua função – em alguns casos, até
@@ -88,7 +88,7 @@ particular. Por exemplo, um carro autônomo é excelente em dirigir, mas
 não consegue escrever um poema ou diagnosticar uma doença fora de seu
 escopo programado. Sua especialização é sua força e também seu limite.
 
-#### IA Forte (IA de Propósito Geral): A Aspiração Humana
+### IA Forte (IA de Propósito Geral): A Aspiração Humana
 
 Já a **IA Forte** se refere, essencialmente, a uma capacidade
 intelectual semelhante à de um ser humano. Ela seria capaz de aprender
@@ -102,7 +102,7 @@ máquinas demonstram uma capacidade cognitiva ampla. Criar uma máquina
 com a flexibilidade e a capacidade de raciocínio do cérebro humano é um
 desafio imenso, com um caminho ainda longo e incerto a ser percorrido.
 
-#### A Complexidade da IA Atual: Entre o Estreito e o Geral
+### A Complexidade da IA Atual: Entre o Estreito e o Geral
 
 Mas, apesar de a IA Forte continuar sendo uma aspiração, a IA Fraca já
 causa impactos significativos em nosso cotidiano. Além disso, é
@@ -140,7 +140,7 @@ Para entender as possibilidades e o caminho da IA até hoje, é
 interessante analisar os três grandes momentos da área, conhecidas como
 "ondas":
 
-#### Primeira Onda: Sistemas Especializados
+### Primeira Onda: Sistemas Especializados
 
 Os **sistemas especializados** marcaram a primeira onda da IA.
 Conhecidos como "expert systems", eram programas projetados para
@@ -150,7 +150,7 @@ científicos, esses sistemas eram limitados por dependerem totalmente de
 regras predefinidas, não sendo capazes de lidar com todos os cenários
 possíveis.
 
-#### Segunda Onda: Aprendizado de Máquina (Machine Learning)
+### Segunda Onda: Aprendizado de Máquina (Machine Learning)
 
 A segunda onda, o **Aprendizado de Máquina** (ou *Machine Learning* -
 ML), surgiu em meados dos anos 80. Foi impulsionada pelo avanço de
@@ -162,7 +162,7 @@ exemplos fornecidos. Essa abordagem revolucionou a IA e hoje é
 amplamente utilizada em diversas áreas para tarefas como classificação
 de imagens, sistemas de recomendação e análises preditivas.
 
-#### Terceira Onda: Inteligência Artificial Generativa (GenAI)
+### **Terceira Onda: Inteligência Artificial Generativa (GenAI)**
 
 Por fim, e mais recentemente, temos a **Inteligência Artificial
 Generativa** (ou *Generative AI* - GenAI), que representa a terceira
