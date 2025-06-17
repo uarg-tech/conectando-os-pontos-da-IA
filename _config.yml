@@ -3,8 +3,7 @@ longtitle: Conectando os Pontos da IA - Como a Inteligencia Artificial Realmente
 description: Seu primeiro passo para um letramento efetivo em Inteligencia Artificial
 
 remote_theme: sighingnow/jekyll-gitbook
-plugins:
-  - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
