@@ -61,8 +61,7 @@ mundial. Com isso, os dados se tornaram não apenas abundantes, mas
 também mais ricos e diversificados, registrando aspectos da sociedade
 antes inimagináveis.
 
-
-
+------------------------------------------------------------------------
 
 ## Os Dois Lados da Inteligência Artificial: Fraca vs. Forte
 
@@ -89,7 +88,6 @@ particular. Por exemplo, um carro autônomo é excelente em dirigir, mas
 não consegue escrever um poema ou diagnosticar uma doença fora de seu
 escopo programado. Sua especialização é sua força e também seu limite.
 
-
 #### IA Forte (IA de Propósito Geral): A Aspiração Humana
 
 Já a **IA Forte** se refere, essencialmente, a uma capacidade
@@ -103,7 +101,6 @@ produções recentes como o filme de animação "Robô Selvagem", onde
 máquinas demonstram uma capacidade cognitiva ampla. Criar uma máquina
 com a flexibilidade e a capacidade de raciocínio do cérebro humano é um
 desafio imenso, com um caminho ainda longo e incerto a ser percorrido.
-
 
 #### A Complexidade da IA Atual: Entre o Estreito e o Geral
 
@@ -134,3 +131,66 @@ Eles aparentam ser uma IA Forte, mas na prática, continuam longe de
 possuir consciência. São como "papagaios hiperinteligentes" — capazes de
 reproduzir informações e padrões, mas sem compreendê-los
 verdadeiramente.
+
+------------------------------------------------------------------------
+
+## A evolução da IA tradicional e a emergência da IA Generativa
+
+Para entender as possibilidades e o caminho da IA até hoje, é
+interessante analisar os três grandes momentos da área, conhecidas como
+"ondas":
+
+#### Primeira Onda: Sistemas Especializados
+
+Os **sistemas especializados** marcaram a primeira onda da IA.
+Conhecidos como "expert systems", eram programas projetados para
+executar tarefas específicas baseadas em regras definidas por
+especialistas. Embora úteis para resolver problemas matemáticos e
+científicos, esses sistemas eram limitados por dependerem totalmente de
+regras predefinidas, não sendo capazes de lidar com todos os cenários
+possíveis.
+
+#### Segunda Onda: Aprendizado de Máquina (Machine Learning)
+
+A segunda onda, o **Aprendizado de Máquina** (ou *Machine Learning* -
+ML), surgiu em meados dos anos 80. Foi impulsionada pelo avanço de
+algoritmos capazes de aprender padrões diretamente dos dados, como SVM e
+Árvores de Decisão – embora alguns conceitos fundamentais, como o
+Perceptron, já existissem desde 1957. Aqui, em vez de seguir regras
+pré-definidas, a máquina identifica padrões e toma decisões com base em
+exemplos fornecidos. Essa abordagem revolucionou a IA e hoje é
+amplamente utilizada em diversas áreas para tarefas como classificação
+de imagens, sistemas de recomendação e análises preditivas.
+
+#### Terceira Onda: Inteligência Artificial Generativa (GenAI)
+
+Por fim, e mais recentemente, temos a **Inteligência Artificial
+Generativa** (ou *Generative AI* - GenAI), que representa a terceira
+onda. Impulsionada por avanços em modelos baseados em redes neurais
+profundas (*Deep Learning*), a IA passou a ser capaz de não apenas
+analisar dados, mas também de **criar novos conteúdos** ao combinar
+elementos como textos, imagens ou vídeos de maneiras inovadoras. Daí o
+nome "Generativa".
+
+Esta última onda permitiu adicionar uma camada conversacional na
+interação humano-máquina, tornando a tecnologia mais acessível e natural
+– e agora você não precisa mais aprender binário para conversar com seu
+computador! A popularização de ferramentas como o ChatGPT tem causado um
+impacto sem precedentes na sociedade ao tornar públicos e acessíveis
+alguns dos sistemas de IA mais avançados já desenvolvidos.
+
+<!-- to-do: TIMELINE - Linha do Tempo: Ondas e Grandes Marcos da IA -->
+
+Embora a IA Generativa seja uma evolução natural do Aprendizado de
+Máquina, seu impacto foi tão significativo que é comum tratá-la como uma
+categoria distinta. "IA Tradicional" é como chamamos a era que antecede
+a IA Generativa.
+
+A diferença fundamental aqui é: enquanto a **IA Tradicional aprende a
+reconhecer e classificar**, a **IA Generativa aprende a combinar e
+criar**. Compreender esta distinção nos ajuda a entender por que não
+devemos reduzir toda a área de IA apenas à GenAI.
+
+Como veremos ao longo deste e-book, aplicações de IA Tradicional e IA
+Generativa são utilizadas de forma separada ou em conjunto em diversos
+contextos, e isso dificilmente mudará nos próximos anos.
