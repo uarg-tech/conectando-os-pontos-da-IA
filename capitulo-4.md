@@ -1,12 +1,11 @@
 ---
-title: Capítulo 4
+title: 4. Aprendizado de Máquina (ML), suas segmentações e algoritmos clássicos
 layout: page
 editor_options: 
   markdown: 
     wrap: sentence
 ---
 
-# Aprendizado de Máquina (ML), suas segmentações e algoritmos clássicos
 
 ## Tipos de Aprendizado no ML: Como a IA Aprende?
 

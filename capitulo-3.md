@@ -1,9 +1,8 @@
 ---
-title: Capítulo 3 
+title: 3. O Processo por trás de uma Inteligência Artificial 
 layout: page
 ---
 
-# O Processo por trás de uma Inteligência Artificial
 
 ## A essência da IA: Entrada, Saída e o Aprendizado de Máquina
 

@@ -1,9 +1,8 @@
 ---
-title: Capítulo 2
+title: 2. Os Conceitos e Reflexões por trás da IA
 layout: page
 ---
 
-# Os Conceitos e Reflexões por trás da IA
 
 ## Afinal, a IA é Realmente Inteligente?
 

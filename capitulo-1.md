@@ -1,9 +1,8 @@
 ---
-title: Capítulo 1
+title: 1. Contextualizando a Inteligência Artificial
 layout: page
 ---
 
-# Contextualizando a Inteligência Artificial
 
 ## O que é IA? Uma perspectiva histórica
 
