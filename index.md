@@ -7,9 +7,7 @@ layout: home
 
 ## Escrito por: **[Nathália Demetrio](https://linktr.ee/NathaliaDemetrio)** e **[Arthur Grangeiro](https://www.linkedin.com/in/arthurgrangeiro/)**
 
-## ⚠️ Este livro está em desenvolvimento. Novos capítulos e revisões serão adicionados periodicamente. Contribuições são bem-vindas!"
-
-### ⚠️ Este livro está em desenvo
+### ⚠️ Este livro está em desenvolvimento. Novos capítulos e revisões serão adicionados periodicamente. Contribuições são bem-vindas! 
 ---
 
 ![Cover Art](/assets/images/orni_.png)
