@@ -21,4 +21,4 @@ Não é preciso ter conhecimentos avançados em tecnologia para conectar esses p
 
 ---
 
-[Próximo capítulo →](capitulo-1){: .btn .btn-purple }
+[Capa](/index){: .btn .btn-purple } [Próximo capítulo →](/capitulo-1){: .btn .btn-purple }
