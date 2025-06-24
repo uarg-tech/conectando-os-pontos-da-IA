@@ -21,5 +21,4 @@ Não é preciso ter conhecimentos avançados em tecnologia para conectar esses p
 
 ---
 
-[Capa]({{ site.baseurl }}/index){: .btn .btn-purple } 
-[Próximo capítulo →]({{ site.baseurl }}/capitulo-1){: .btn .btn-purple }
+
