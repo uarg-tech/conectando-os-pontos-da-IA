@@ -7,7 +7,7 @@ color_scheme: light
 
 nav:
   - title: "Introdução"
-    url: /intro
+    url: /capitulo-0
   - title: "Capítulo 1"
     url: /capitulo-1
   - title: "Capítulo 2"
