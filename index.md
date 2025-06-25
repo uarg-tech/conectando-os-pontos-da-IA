@@ -15,14 +15,14 @@ layout: home
 
 ---
 ## Sumário 
-### 1. [Introdução: Por que você deveria ler este livro?](intro)
-### 2. [Contextualizando a Inteligência Artificial](capitulo-1)
-### 3. [Os Conceitos e Reflexões por trás da IA](capitulo-2)
-### 4. [O Processo por trás de uma Inteligência Artificial](capitulo-3)
-### 5. [Aprendizado de Máquina (ML), suas segmentações e algoritmos clássicos](capitulo-4)
-### 6. [Redes Neurais e Deep Learning](capitulo-5)
-### 7. [Fundamentos e Evolução da Inteligência Artificial Generativa](capitulo-6)
-### 8. [Próximos passos](capitulo-7)
+### 0. [Introdução: Por que você deveria ler este livro?](capitulo-0)
+### 1. [Contextualizando a Inteligência Artificial](capitulo-1)
+### 2. [Os Conceitos e Reflexões por trás da IA](capitulo-2)
+### 3. [O Processo por trás de uma Inteligência Artificial](capitulo-3)
+### 4. [Aprendizado de Máquina (ML), suas segmentações e algoritmos clássicos](capitulo-4)
+### 5. [Redes Neurais e Deep Learning](capitulo-5)
+### 6. [Fundamentos e Evolução da Inteligência Artificial Generativa](capitulo-6)
+### 7. [Próximos passos](capitulo-7)
 
 ---
 
