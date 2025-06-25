@@ -15,7 +15,7 @@ layout: home
 
 ---
 ## Sumário 
-### 0. [Introdução: Por que você deveria ler este livro?](capitulo-0)
+### 0. [Introdução: Por que você deveria ler este livro?](intro)
 ### 1. [Contextualizando a Inteligência Artificial](capitulo-1)
 ### 2. [Os Conceitos e Reflexões por trás da IA](capitulo-2)
 ### 3. [O Processo por trás de uma Inteligência Artificial](capitulo-3)
