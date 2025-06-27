@@ -3,6 +3,15 @@ title: 1. Contextualizando a Inteligência Artificial
 layout: page
 ---
 
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+
 
 ## O que é IA? Uma perspectiva histórica
 
