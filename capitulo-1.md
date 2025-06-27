@@ -5,7 +5,7 @@ layout: page
 
 {: .no_toc }
 
-## Table of Contents
+## Índice
 {: .no_toc .text-delta }
 
 - TOC
