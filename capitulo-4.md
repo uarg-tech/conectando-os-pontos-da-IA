@@ -6,6 +6,13 @@ editor_options:
     wrap: sentence
 ---
 
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Tipos de Aprendizado no ML: Como a IA Aprende?
 
