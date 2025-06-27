@@ -3,6 +3,13 @@ title: 3. O Processo por trás de uma Inteligência Artificial
 layout: page
 ---
 
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## A essência da IA: Entrada, Saída e o Aprendizado de Máquina
 
