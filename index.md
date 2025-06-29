@@ -6,7 +6,7 @@ layout: home
 
 ## Escrito por: [**Nathália Demetrio**](https://linktr.ee/NathaliaDemetrio) e [**Arthur Grangeiro de Souza**](https://www.linkedin.com/in/arthurgrangeiro/)
 
-![Cover Art](/assets/images/orni_.png){width="532"}
+![](/assets/images/orni_.png){width="280"}
 
 ---
 ## Sumário 
@@ -20,13 +20,25 @@ layout: home
 ### 7. [Próximos passos](capitulo-7)
 ---
 
-Este livro está licenciado sob a Licença **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+### 📄 Licença e Uso do Conteúdo
 
-Isso significa que você pode: - **Compartilhar**: copiar e redistribuir o material em qualquer meio ou formato - **Adaptar**: remixar, transformar e criar a partir do material
+Ligando os Pontos da IA é um projeto licenciado sob a Licença **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
-**Sob as seguintes condições**: - **Atribuição**: Você deve dar o crédito apropriado. - **Não Comercial**: Você não pode usar o material para fins comerciais. - **Compartilhar sob a mesma Licença**: Se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença.
+Isso significa que você pode:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   **Compartilhar**: copiar e redistribuir o material em qualquer meio ou formato, ou
+
+-   **Adaptar**: remixar, transformar e criar a partir do material
+
+**Sob as seguintes condições**:
+
+-   **Atribuição**: Você deve dar o crédito apropriado.
+
+-   **Não Comercial**: Você não pode usar o material para fins comerciais.
+
+-   **Compartilhar sob a mesma Licença**: Se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença.
+
+------------------------------------------------------------------------
 
 ### 📣 Seu Feedback é Importante!
 
