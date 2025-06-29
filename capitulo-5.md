@@ -1,5 +1,5 @@
 ---
-title: Capítulo 5 - Redes Neurais e Deep Learning
+title: 5. Redes Neurais e Deep Learning
 layout: page
 editor_options: 
   markdown: 
@@ -9,10 +9,10 @@ editor_options:
 {: .no_toc }
 
 ## Índice
-
 {: .no_toc .text-delta }
 
--   TOC {:toc}
+- TOC
+{:toc}
 
 # Do Cérebro Humano às Redes Neurais Artificiais: Como as Máquinas Aprendem  
 
