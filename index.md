@@ -10,7 +10,7 @@ layout: home
 
 ---
 ## Sumário 
-### 0. [Introdução: Por que você deveria ler este livro?](capitulo-0)
+### 0. [Introdução - Por que você deveria ler este livro?](capitulo-0)
 ### 1. [Contextualizando a Inteligência Artificial](capitulo-1)
 ### 2. [Os Conceitos e Reflexões por trás da IA](capitulo-2)
 ### 3. [O Processo por trás de uma Inteligência Artificial](capitulo-3)
@@ -24,11 +24,8 @@ layout: home
 
 Ligando os Pontos da IA é um projeto licenciado sob a Licença **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
-Isso significa que você pode:
+Isso significa que você pode: **compartilhar**: copiar e redistribuir o material em qualquer meio ou formato, ou **adaptar**: remixar, transformar e criar a partir do material.
 
--   **Compartilhar**: copiar e redistribuir o material em qualquer meio ou formato, ou
-
--   **Adaptar**: remixar, transformar e criar a partir do material
 
 **Sob as seguintes condições**:
 
@@ -44,6 +41,7 @@ Isso significa que você pode:
 
 Este livro é um projeto em constante evolução, e sua opinião faz toda a diferença para melhorá-lo! Se você: tem sugestões de novos temas; quer contribuir com casos de uso; ou simplesmente compartilhar o seu feedback, estamos prontos para ouvir:
 
-💬 Escreva para [nathaliadvm\@gmail.com](mailto:nathaliadvm@gmail.com){.email} ou deixe seus comentário no nosso [repositório no Git](https://github.com/uarg-tech/conectando-os-pontos-da-IA/blob/main/index.md)
+💬 Escreva para [nathaliadvm@gmail.com](mailto:nathaliadvm@gmail.com) ou deixe seus comentário no nosso [repositório no Git](https://github.com/uarg-tech/conectando-os-pontos-da-IA/blob/main/index.md)
+
 
 Obrigado por embarcar com a gente. Siga em frente, há muito mais para explorar!

@@ -106,31 +106,27 @@ em uma ampla variedade de tarefas, assim como nós fazemos.
 Atualmente, a IA Forte ainda é um objetivo de pesquisa e desenvolvimento
 e existe apenas no campo da ficção científica – como o que vemos em
 produções recentes como o filme de animação "Robô Selvagem", onde
-máquinas demonstram uma capacidade cognitiva ampla. Criar uma máquina
-com a flexibilidade e a capacidade de raciocínio do cérebro humano é um
+uma máquina demonstra habilidades cognitivas amplas, incluindo sentimentos como afeição. 
+Criar um sistema com o mesmo poder de flexibilidade do cérebro humano é um
 desafio imenso, com um caminho ainda longo e incerto a ser percorrido.
 
 ### A Complexidade da IA Atual: Entre o Estreito e o Geral
 
 Mas, apesar de a IA Forte continuar sendo uma aspiração, a IA Fraca já
-causa impactos significativos em nosso cotidiano. Além disso, é
-importante notar que essa distinção não é exatamente binária. É possível
+causa impactos significativos em nosso cotidiano. Ainda mais tendo em conta que 
+a distinção Estreito vs. Geral não é exatamente binária. É possível
 conceber estágios intermediários, com sistemas que parecem transcender
 as definições tradicionais da IA Fraca, mas que ainda não atingem a
 complexidade da IA Forte.
 
 <!-- to-do: Tabela: Comparativo entre IA Fraca (Estreita) e IA Forte (Geral) -->
 
-Mas, apesar de a IA Forte continuar sendo uma aspiração, a IA Fraca já
-causa impactos significativos em nosso cotidiano. Além disso, é
-importante notar que essa distinção não é exatamente binária. É possível
-conceber estágios intermediários, com sistemas que parecem transcender
-as definições tradicionais da IA Fraca, mas que ainda não atingem a
-complexidade da IA Forte.
 
-Embora não haja um termo oficial, neste material vamos nos referir a
-esse tipo de IA como **IA Fraca Multitarefa** ou **IA Fraca Avançada**.
-Elas combinam múltiplas tarefas especializadas em um domínio específico.
+Para tais situações intermediárias, embora não haja um termo oficial, 
+neste material vamos nos referir a esse tipo de IA como 
+**IA Fraca Multitarefa** ou **IA Fraca Avançada**.
+Elas combinam múltiplas tarefas especializadas em um domínio específico, 
+mas sem o poder de flexibilidade e abstração e extrapolação entre objetivos.
 Por exemplo, assistentes como a Alexa podem reconhecer voz, responder a
 perguntas e controlar dispositivos, mas sempre limitadas a opções
 predefinidas. Já modelos avançados como o GPT-4 ou o DeepSeek podem
@@ -138,7 +134,7 @@ interagir e utilizar raciocínio adaptativo em contextos mais amplos.
 Eles aparentam ser uma IA Forte, mas na prática, continuam longe de
 possuir consciência. São como "papagaios hiperinteligentes" — capazes de
 reproduzir informações e padrões, mas sem compreendê-los
-verdadeiramente.
+verdadeiramente - discutiremos mais sobre este ponto mais à frente.
 
 ------------------------------------------------------------------------
 
@@ -154,8 +150,8 @@ Os **sistemas especializados** marcaram a primeira onda da IA.
 Conhecidos como "expert systems", eram programas projetados para
 executar tarefas específicas baseadas em regras definidas por
 especialistas. Embora úteis para resolver problemas matemáticos e
-científicos, esses sistemas eram limitados por dependerem totalmente de
-regras predefinidas, não sendo capazes de lidar com todos os cenários
+científicos, esses sistemas eram limitados por dependerem totalmente das
+regras predefinidas pelos especialistas envolvidos, não sendo capazes de lidar com todos os cenários
 possíveis.
 
 ### Segunda Onda: Aprendizado de Máquina (Machine Learning)
@@ -174,9 +170,9 @@ de imagens, sistemas de recomendação e análises preditivas.
 
 Por fim, e mais recentemente, temos a **Inteligência Artificial
 Generativa** (ou *Generative AI* - GenAI), que representa a terceira
-onda. Impulsionada por avanços em modelos baseados em redes neurais
-profundas (*Deep Learning*), a IA passou a ser capaz de não apenas
-analisar dados, mas também de **criar novos conteúdos** ao combinar
+onda. Impulsionada por diferentes avanços tecnológicos, particularmente relacionados aos
+modelos baseados em redes neurais profundas (*Deep Learning*), a IA passou a ser capaz de não apenas
+identificar padrões complexos em dados históricos, mas também de **criar novos conteúdos** ao combinar
 elementos como textos, imagens ou vídeos de maneiras inovadoras. Daí o
 nome "Generativa".
 
@@ -185,20 +181,21 @@ interação humano-máquina, tornando a tecnologia mais acessível e natural
 – e agora você não precisa mais aprender binário para conversar com seu
 computador! A popularização de ferramentas como o ChatGPT tem causado um
 impacto sem precedentes na sociedade ao tornar públicos e acessíveis
-alguns dos sistemas de IA mais avançados já desenvolvidos.
+alguns dos sistemas de IA mais avançados já desenvolvidos. 
 
 <!-- to-do: TIMELINE - Linha do Tempo: Ondas e Grandes Marcos da IA -->
 
 Embora a IA Generativa seja uma evolução natural do Aprendizado de
 Máquina, seu impacto foi tão significativo que é comum tratá-la como uma
-categoria distinta. "IA Tradicional" é como chamamos a era que antecede
-a IA Generativa.
+categoria distinta. "IA Tradicional" engloba as possibilidade da área que antecedem
+a IA Generativa. 
 
 A diferença fundamental aqui é: enquanto a **IA Tradicional aprende a
 reconhecer e classificar**, a **IA Generativa aprende a combinar e
 criar**. Compreender esta distinção nos ajuda a entender por que não
-devemos reduzir toda a área de IA apenas à GenAI.
+devemos reduzir toda a área de IA apenas à GenAI — já que ambas oferecem 
+soluções para problemas distintos.
 
-Como veremos ao longo deste e-book, aplicações de IA Tradicional e IA
-Generativa são utilizadas de forma separada ou em conjunto em diversos
-contextos, e isso dificilmente mudará nos próximos anos.
+Como veremos ao longo deste e-book, aplicações de IA Tradicional e IA 
+Generativa são utilizadas de forma separada ou em conjunto em diversos 
+contextos — e isso dificilmente mudará nos próximos anos.
