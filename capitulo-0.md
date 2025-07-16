@@ -5,18 +5,31 @@ layout: page
 
 # Por que você deveria ler este livro?
 
-A Inteligência Artificial está remodelando o mundo. Da forma como você trabalha ao seu feed de notícias, IA esta em todos os lugares: muitas vezes sem que você sequer perceba. Para navegar nessa transformação é preciso de mais do que notícias sensacionalistas ou teorias das conspiração: é necessario compreender a essência que poucas pessoas explicam:
-* Como a IA se tornou o que é hoje?
-* Como as máquinas realmente aprendem?
-* Como separar o "hype" da verdade
-* **E principalmente: como as coisas funcionam e se conectam!**
+A Inteligência Artificial está remodelando o mundo - 
+da forma como você trabalha ao seu feed de notícias, 
+muitas vezes sem que você sequer perceba. 
+Para navegar nessa transformação, 
+você precisa de mais do que notícias sensacionalistas ou teorias das conspiração: 
+**é preciso compreender**! E este livro é exatamente sobre isto! 
 
-Nesse material você descobrirá:
-* O que termos como **Machine Learning** e **IA Generativa** significam
-* A lógica por trás dos sistemas que estão mudando o mundo
-* O que a IA realmente é (e o que definitivamente não é!)
 
-Não é preciso ter conhecimentos avançados em tecnologia para conectar esses pontos. O universo de IA pode ser explicado por meio de um discurso acessível, que descomplica jargões, esclarece cenários e usa exemplos claros e práticos. Isso é exatamente o que encontramos neste livro, que se orgulha de ser seu primeiro passo para um letramento efetivo em Inteligência Artificial.
+Como identificar a conexão entre elementos do seu dia a dia 
+e os dados que alimentam a IA? 
+Como as máquinas realmente aprendem? 
+Quais os limites e fortalezas das soluções? 
+**E, principalmente: como tudo isso funciona e se conecta?**
+
+Neste livro, você vai descobrir:
+
+* O que significam termos como Machine Learning e IA generativa 
+* A lógica por trás dos sistemas que estão transformando o mundo 
+* O que a Inteligência Artificial realmente é – e o que definitivamente não é!
+
+
+O universo de IA pode ser explicado por meio de um discurso acessível, 
+que descomplica jargões, esclarece cenários e usa exemplos claros e práticos. 
+Isso é exatamente o que encontramos neste livro, 
+que se orgulha de ser seu primeiro passo para um letramento efetivo em Inteligência Artificial.
 
 ---
 
