@@ -3,8 +3,6 @@ title: "0. Por que você deveria ler este livro?"
 layout: page
 ---
 
-# Por que você deveria ler este livro?
-
 A Inteligência Artificial está remodelando o mundo - 
 da forma como você trabalha ao seu feed de notícias, 
 muitas vezes sem que você sequer perceba. 
