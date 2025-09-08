@@ -2,6 +2,9 @@
 layout: home
 ---
 
+<!-- to-do: como faz para que esse capítulo apareça como primeiro? -->
+
+
 # Ligando os Pontos da IA: Como a Inteligência Artificial Realmente Funciona e Transforma o Mundo
 
 ## Escrito por: [**Nathália Demetrio**](https://linktr.ee/NathaliaDemetrio) e [**Arthur Grangeiro de Souza**](https://www.linkedin.com/in/arthurgrangeiro/)

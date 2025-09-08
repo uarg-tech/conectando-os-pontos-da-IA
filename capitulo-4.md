@@ -14,6 +14,9 @@ editor_options:
 - TOC
 {:toc}
 
+<!-- to-do: ter um frame de ML para ir reforçando e resgatando ao longo do livro -->
+
+
 ## Tipos de Aprendizado no ML: Como a IA Aprende?
 
 Já imaginou como a IA aprende?

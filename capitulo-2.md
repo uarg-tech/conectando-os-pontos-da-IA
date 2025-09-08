@@ -173,7 +173,7 @@ Vamos falar desta última peça do quebra-cabeça da Inteligência
 Artificial: os **dados**.
 
 Sim, porque, para poder imitar o mundo, a IA se baseia nas informações
-que nós disponibilizamos ou, como veremos mais à frente, que nós
+que nós disponibilizamos ou, como veremos mais à frente, que
 utilizamos para treiná-la. Quanto melhores os dados, mais robustos e
 relevantes serão os resultados.
 
@@ -209,14 +209,15 @@ emocionais. Perceba que estamos falando que é possível que uma IA
 consiga captar certas nuances antes mesmo que a própria pessoa perceba.
 
 E isso é possível porque a IA é capaz de criar relações mesmo entre
-informações que, para nós, parecem desconexas, como o tipo de conexão de
+informações que, para nós, parecem desconexas. Talvez o tipo de conexão de
 acesso às redes sociais (Wi-Fi? 5G?), as pausas feitas antes de
-interagir com determinados conteúdos e até mudanças no padrão de
-digitação. Não por meio de correlações simples ou regras duras, mas
+interagir com determinados conteúdos ou ainda mudanças no padrão de
+digitação sejam informações que nos permitam entender melhor sobre comportamentos nas redes sociais. 
+Não por meio de correlações simples ou regras genéricas, mas
 identificando **padrões complexos escondidos nos dados**!
 
-Mas apenas para os dados que mostramos para a IA! Sejam eles bons ou
-ruins. E esse é o assunto do próximo capítulo.
+Mas note que isso é verdade apenas para os dados que mostramos para a IA! 
+Sejam eles bons ou ruins. E esse é o assunto do próximo capítulo.
 
 ------------------------------------------------------------------------
 
