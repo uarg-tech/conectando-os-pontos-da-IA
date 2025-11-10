@@ -142,14 +142,17 @@ E se essa integração puder também gerar conteúdo combinado — imagens, text
 
 # GenIA em ação: Modelos, Produtos e Engenharia de Prompt
 
-Desde que assistentes como ChatGPT, Google Gemini e Claude entraram no nosso dia a dia, acompanhamos sua rápida evolução e a capacidade impressionante de responder perguntas, resumir textos, gerar ideias e até apoiar em tarefas como escrita e programação.
+Assistentes como ChatGPT, Gemini e Claude já fazem parte do nosso cotidiano, evoluindo rapidamente e impressionando pela capacidade de responder perguntas, resumir conteúdos, gerar ideias e auxiliar em tarefas de escrita e programação.
 
-Por outro lado, as interfaces de usuário pouco mudaram — o que nos convida a refletir sobre a relação entre o que interagimos na tela e o “cérebro” que impulsiona essas respostas.
+As interfaces que utilizamos para acessar tais recursos, por outro lado, não costumam apresentar grandes modificações.
+O que nos leva a uma reflexão importante: a diferença entre o "cérebro" por trás destas ferramentas, e a forma como interagimos com eles.
 
-A chave está na diferença entre modelo e produto.
+Essa distinção se resume a dois conceitos fundamentais: modelo e produto.
 
 -   O modelo é o algoritmo de IA em si, treinado com grandes volumes de dados.
 -   O produto é a aplicação que faz uso desses modelos e os entrega de forma mais acessívelao usuário final.
+
+**Modelos**
 
 O ChatGPT, por exemplo, é a interface que utilizamos como produto, mas seu “cérebro” é um modelo de Deep Learning chamado GPT, que possui diferentes versões.
 
