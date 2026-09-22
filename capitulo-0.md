@@ -1,33 +1,20 @@
 ---
-title: "0. Por que você deveria ler este livro?"
+title: "0. Por que ler este livro:"
 layout: page
 ---
 
-A Inteligência Artificial está remodelando o mundo - 
-da forma como você trabalha ao seu feed de notícias, 
-muitas vezes sem que você sequer perceba. 
-Para navegar nessa transformação, 
-você precisa de mais do que notícias sensacionalistas ou teorias das conspiração: 
-**é preciso compreender**! E este livro é exatamente sobre isto! 
+A Inteligência Artificial está remodelando o mundo. É impossível existir online nos dias atuais sem se deparar com textos e imagens geradas por IA. Ainda assim, muitas vezes não temos a real noção do quanto essa tecnologia de toca nossas vidas. Da forma como trabalhamos ao nosso feed de notícias, da recomndação de um filme a previsão do tempo, tudo isso é atravessado por IA, sem que a gente sequer perceba. 
 
+Para sobreviver nesse novo mundo precisamos de mais do que notícias sensacionalistas ou teorias das conspiração: precisamos aprender! Você já se perguntou de onde vem a inteligência das máquinas? Ou como dados e inteligência artificial podem estar relacionados? Já se perguntou o que de fato essa tecnologia pode fazer, quais são seus super-poderes e limitação? Se você está aqui, provavelmente a resposta é sim. Então você está no lugar certo. Todas essas perguntas serão respondidas em seu devido tempo, e quando isso acontecer você irá perceber que elas se conectam de uma forma maravilhosa.
 
-Como identificar a conexão entre elementos do seu dia a dia 
-e os dados que alimentam a IA? 
-Como as máquinas realmente aprendem? 
-Quais os limites e fortalezas das soluções? 
-**E, principalmente: como tudo isso funciona e se conecta?**
+O universo de IA não só pode, como deve, ser explicado de maneira acessível e inclusiva, sem se apoiar jargões ou abstrações complexas. Por isso esse livro existe. Buscamos por meio de exemplos práticos, casos de uso e explicações contextualizadas criar uma fundação sólida, suficente para ser seu primeiro passo rumo a um letramento efetivo em Inteligência Artificial.
 
-Neste livro, você vai descobrir:
+Neste livro, entre outras coisas, iremos descobrir:
+* O que termos como Aprendizado de Máquina (*Machine Learning*) e IA Generativa (*Generative AI*) significam
+* A lógica por trás dos Modelos e Sistamas de IA que estão transformando o mundo
+* O que a Inteligência Artificial realmente é (e o que definitivamente não é!)
 
-* O que significam termos como Machine Learning e IA generativa 
-* A lógica por trás dos sistemas que estão transformando o mundo 
-* O que a Inteligência Artificial realmente é – e o que definitivamente não é!
-
-
-O universo de IA pode ser explicado por meio de um discurso acessível, 
-que descomplica jargões, esclarece cenários e usa exemplos claros e práticos. 
-Isso é exatamente o que encontramos neste livro, 
-que se orgulha de ser seu primeiro passo para um letramento efetivo em Inteligência Artificial.
+Vamos começar?
 
 ---
 
